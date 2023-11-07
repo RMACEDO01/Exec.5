@@ -1,0 +1,35 @@
+.container{
+  display:flex;
+  justify-content:space-evenly;
+  align-items:flex-end;
+}
+
+.one{
+  background-color:red;
+  color:white;
+  width:200px;
+  height:200px;
+  text-align:center;
+  border:20px solid white;
+  line-height:150px;
+  
+}
+
+.two{ background-color:green;
+  color:white;
+  width:200px;
+  height:200px;
+  text-align:center;
+  border:20px solid white;
+  line-height:150px;
+  }
+.three{ background-color:blue;
+  color:white;
+  width:200px;
+  height:200px;
+  text-align:center;
+  border:20px solid white;
+  line-height:150px;
+  }
+
+.one,.two,.three{width:700px}
